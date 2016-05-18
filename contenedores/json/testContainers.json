@@ -1,0 +1,701 @@
+[{
+  "_id": "56a74028db8735e332e67205",
+  "uid": "3000215 V5 ESPERANZA DE LA TRINIDAD 12 SMB",
+  "device": "560532e173a0307905ea31e4",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3954623",
+    "longitude": "-5.974981",
+    "address": "Calle Esperanza de la Trinidad, 12, 41008 Sevilla",
+    "formatted_address": "",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a74028db8735e332e6720a",
+  "uid": "3000220 V5 URQUIZA 14 SMB",
+  "device": "55fbc53a7ae59abf075be2cb",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39444707106081",
+    "longitude": "-5.9798506865081436",
+    "address": "Calle Urquiza, 12",
+    "formatted_address": "Calle Urquiza, 12, 41003 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56aa0eb0b9d6a598401d0623",
+  "uid": "3000185 V6 SOLEA ESQUINA PLAZA TOMAS PAVON SMB",
+  "device": "55fbed137ae59abf075be440",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3934221",
+    "longitude": "-5.966068299999961",
+    "address": "Av. de la Solea",
+    "formatted_address": "Av. de la Solea, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab2cb2b9d6a598401d0647",
+  "uid": "3000134 V6 EFESO DELANTE Nº 2, PZ ADORACIÓN PAS SMB",
+  "device": "560257d173a0307905e9d6b1",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3960512358139",
+    "longitude": "-5.965354290351797",
+    "address": "Calle Éfeso",
+    "formatted_address": "Calle Éfeso, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab648ed45f82ee1885f965",
+  "uid": "3000151 V6 KANSAS CITY GALLEGA SMB",
+  "device": "56002b3473a0307905e94479",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39591875902592",
+    "longitude": "-5.967175717582677",
+    "address": "Av. de Kansas City, 37",
+    "formatted_address": "Av. de Kansas City, 37, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab6c06d45f82ee1885f968",
+  "uid": "3000164 V6 MONTE TABOR BETANIA SMB",
+  "device": "5603c48a73a0307905ea15e6",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39136899907294",
+    "longitude": "-5.971948620237754",
+    "address": "Calle Monte Tabor, 2D",
+    "formatted_address": "Calle Monte Tabor, 2D, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab648ed45f82ee1885f95f",
+  "uid": "3000144 V6 JERUSALÉN JERICÓ SMB",
+  "device": "55fbd1df7ae59abf075be305",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.394451671508584",
+    "longitude": "-5.960370264001426",
+    "address": "Calle Éfeso, 5",
+    "formatted_address": "Calle Éfeso, 5, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab648ed45f82ee1885f963",
+  "uid": "3000148 V6 KANSAS CITY SEGUIRILLA SMB",
+  "device": "56026c2573a0307905e9e20a",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.393419929090605",
+    "longitude": "-5.9702923183853045",
+    "address": "Av. de El Greco, 1",
+    "formatted_address": "Av. de El Greco, 1, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab6c06d45f82ee1885f967",
+  "uid": "3000163 V6 MONTE TABOR MOLINETE SMB",
+  "device": "5605109b73a0307905ea2d02",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.392119737039884",
+    "longitude": "-5.970977487171922",
+    "address": "Calle Gólgota, 2",
+    "formatted_address": "Calle Gólgota, 2, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab6c06d45f82ee1885f96a",
+  "uid": "3000175 V6 SEBASTIÁN RECASENS 7 SMB",
+  "device": "55fbee1a7ae59abf075be450",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.38938907825764",
+    "longitude": "-5.96912620024716",
+    "address": "Calle Sinaí, 8",
+    "formatted_address": "Calle Sinaí, 8, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab5131d45f82ee1885f914",
+  "uid": "3000192 V6 TARSO ESQUINA CALLE LA ZAMBRA SMB",
+  "device": "55fbd2007ae59abf075be307",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39178491155984",
+    "longitude": "-5.9647557220901035",
+    "address": "Calle Tarso",
+    "formatted_address": "Calle Tarso, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab2cb2b9d6a598401d0642",
+  "uid": "3000178 V6 CALLE SINAI 27 SMB",
+  "device": "560167d673a0307905e9640c",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39071508108203",
+    "longitude": "-5.9697682047547005",
+    "address": "Calle Betania, 19",
+    "formatted_address": "Calle Betania, 19, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab648ed45f82ee1885f960",
+  "uid": "3000145 V6 JERUSALÉN MILETOS SMB",
+  "device": "5608ebf173a0307905ea402a",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39508600862958",
+    "longitude": "-5.959714320901526",
+    "address": "Calle Jerusalén, 9",
+    "formatted_address": "Calle Jerusalén, 9, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab5131d45f82ee1885f913",
+  "uid": "3000191 V6 TARSO ESQ.PZA.EXALTACION DE BACO SMB",
+  "device": "55fbd66f7ae59abf075be320",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.392417309535226",
+    "longitude": "-5.963942630688507",
+    "address": "Calle Tarso",
+    "formatted_address": "Calle Tarso, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab5131d45f82ee1885f912",
+  "uid": "3000190 V6 TARSO 23 ESQUINA LAS HILANDERAS SMB",
+  "device": "560167b473a0307905e963f9",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39372531363891",
+    "longitude": "-5.963164945963285",
+    "address": "Calle Tarso, 23",
+    "formatted_address": "Calle Tarso, 23, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab2cb2b9d6a598401d0645",
+  "uid": "3000138 V6 EL GRECO 15 SMB",
+  "device": "560257ed73a0307905e9d6bf",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39076014866886",
+    "longitude": "-5.967766301783058",
+    "address": "Av. de El Greco, 28",
+    "formatted_address": "Av. de El Greco, 28, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab6c06d45f82ee1885f96b",
+  "uid": "3000179 V6 SEBASTIÁN RECASENS 29 SMB",
+  "device": "5608eb8d73a0307905ea401e",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39088706928768",
+    "longitude": "-5.969204059771755",
+    "address": "Calle Betania, 4",
+    "formatted_address": "Calle Betania, 4, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56af4b8fd45f82ee1885f9e7",
+  "uid": "3000126 V6 ADA ESQUINA CALLE ESTAMBUL SMB",
+  "device": "55fbe9107ae59abf075be418",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39302348356577",
+    "longitude": "-5.961498301466349",
+    "address": "Calle Memphis",
+    "formatted_address": "Calle Memphis, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a74028db8735e332e67209",
+  "uid": "3000219 V5 PÉREZ HERVAS 2 SMB",
+  "device": "560b979b73a0307905ea47a4",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3934583",
+    "longitude": "-5.981113700000037",
+    "address": "Calle Pérez Hervás, 2-4",
+    "formatted_address": "Calle Pérez Hervás, 2-4, 41003 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56af4b8fd45f82ee1885f9ed",
+  "uid": "3000132 V6 DAMASCO ESQUINA CALLE EL LITRI SMB ",
+  "device": "560bd4d473a0307905ea4afc",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39678784593817",
+    "longitude": "-5.95719743617633",
+    "address": "Calle Damasco, 5",
+    "formatted_address": "Calle Damasco, 5, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56af4b8fd45f82ee1885f9f9",
+  "uid": "3000154 V6 KANSAS CITY 62 SMB",
+  "device": "560bd6ad73a0307905ea4b00",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.40213014580585",
+    "longitude": "-5.95940432514567",
+    "address": "Av. de Kansas City, 64",
+    "formatted_address": "Av. de Kansas City, 64, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56b1edead45f82ee18860058",
+  "uid": "3000168 V6 PEDRO ROMERO 13 SMB",
+  "device": "5612486373a0307905ea5a25",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.399127443734756",
+    "longitude": "-5.958830391401648",
+    "address": "Av. de Pedro Romero, 13",
+    "formatted_address": "Av. de Pedro Romero, 13, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88892289a8c97539b88c7",
+  "uid": "3000231 V5 ARROYO 59 NCCL",
+  "device": "561257aa73a0307905ea5b90",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3956984",
+    "longitude": "-5.980126499999983",
+    "address": "Calle Arroyo, 44A",
+    "formatted_address": "Calle Arroyo, 44A, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88df2289a8c97539b88d5",
+  "uid": "3000265 V5 JOSÉ LAGUILLO 16 NCCL",
+  "device": "560bd6cc73a0307905ea4b09",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39310116327534",
+    "longitude": "-5.981305755819676",
+    "address": "Av. José Laguillo, 16",
+    "formatted_address": "Av. José Laguillo, 16, 41003 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a74028db8735e332e67207",
+  "uid": "3000217 V5 VENECIA 13 SMB",
+  "device": "56026ce773a0307905e9e28e",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39536353075796",
+    "longitude": "-5.979110588291178",
+    "address": "Calle Venecia, 11",
+    "formatted_address": "Calle Venecia, 11, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a74028db8735e332e67208",
+  "uid": "3000218 V5 PÉREZ HERVAS 7 SMB",
+  "device": "5612478373a0307905ea5a1d",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3941585",
+    "longitude": "-5.980365900000038",
+    "address": "Calle Florencia, 1",
+    "formatted_address": "Calle Florencia, 1, 41003 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56af4b8fd45f82ee1885f9eb",
+  "uid": "3000130 V6 ANTIOQUÍA FRENTE Nº1 SMB ",
+  "device": "55fbeedb7ae59abf075be462",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3992102516634",
+    "longitude": "-5.956521796295192",
+    "address": "Calle Antioquia, 6",
+    "formatted_address": "Calle Antioquia, 6, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56af4b8fd45f82ee1885f9e9",
+  "uid": "3000128 V6 ADA ESQUINA CALLE SIRACUSA SMB",
+  "device": "56013c6873a0307905e94baf",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.391756663941386",
+    "longitude": "-5.959952164418041",
+    "address": "Calle de la Ada, 7",
+    "formatted_address": "Calle de la Ada, 7, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56af4b8fd45f82ee1885f9ec",
+  "uid": "3000131 V6 ANTIOQUÍA Nº1 SMB",
+  "device": "5608eb9473a0307905ea4020",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39969239703978",
+    "longitude": "-5.95631258399203",
+    "address": "Calle Antioquia, 6",
+    "formatted_address": "Calle Antioquia, 6, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56b1edead45f82ee1886004f",
+  "uid": "3000159 V6 LAS VILLAS DE CUBA 13 URBANIZACIÓN NUEVO CONTINENTE SMB ",
+  "device": "55faefdf2dea63ea7967c099",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.40327420437169",
+    "longitude": "-5.955754614016769",
+    "address": "Av. de las Villas de Cuba, 90",
+    "formatted_address": "Av. de las Villas de Cuba, 90, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88892289a8c97539b88c8",
+  "uid": "3000232 V5 ARROYO 72ACC NCCL",
+  "device": "56050cf873a0307905ea2c8f",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.397240466985494",
+    "longitude": "-5.977278594442737",
+    "address": "Calle Pinzones, 5",
+    "formatted_address": "Calle Pinzones, 5, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56bc8986bade3f6d0ab04ba9",
+  "uid": "3000385 V7 CARDENAL BUENO MONREAL 42 NCCL",
+  "device": "55fbe9137ae59abf075be41a",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.368633949377084",
+    "longitude": "-5.982862840861571",
+    "address": "Calle Progreso, 55",
+    "formatted_address": "Calle Progreso, 55, 41013 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a61113db8735e332e671f9",
+  "uid": "3000149 V5 KANSAS CITY 11ACC SMB",
+  "device": "560161d473a0307905e960ca",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39445032642288",
+    "longitude": "-5.969716485879189",
+    "address": "Av. de Kansas City, 11",
+    "formatted_address": "Av. de Kansas City, 11, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a61c80db8735e332e671fa",
+  "uid": "3000152 V5 KANSAS CITY 51ACC SMB",
+  "device": "55fff17173a0307905e94433",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.396048001257476",
+    "longitude": "-5.967704791787696",
+    "address": "Av. de Kansas City, 29",
+    "formatted_address": "Av. de Kansas City, 29, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a9dfb2289a8c97539b8af2",
+  "uid": "3000323 V5 RECAREDO 39ACC NCCL",
+  "device": "560503b173a0307905ea2b91",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39196835947241",
+    "longitude": "-5.984041660118919",
+    "address": "Calle Recaredo, 28",
+    "formatted_address": "Calle Recaredo, 28, 41003 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab6f88d45f82ee1885f96e",
+  "uid": "3000202 V6 TOMAS MURUBE 35 SMB",
+  "device": "55fbd6897ae59abf075be322",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.389773707216065",
+    "longitude": "-5.967867929083241",
+    "address": "Calle Jaime Balmes, 5",
+    "formatted_address": "Calle Jaime Balmes, 5, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56ab2cb2b9d6a598401d0643",
+  "uid": "3000136 V6 El GRECO 10 SMB",
+  "device": "55faf8e22dea63ea7967c19a",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.392068542923255",
+    "longitude": "-5.969616417474299",
+    "address": "Av. de El Greco",
+    "formatted_address": "Av. de El Greco, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a61c80db8735e332e671fb",
+  "uid": "3000204 V5 VEINTIOCHO DE FEBRERO 33 SMB",
+  "device": "56013d8e73a0307905e94c50",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39998472271187",
+    "longitude": "-5.963724826983707",
+    "address": "Av. Veintiocho de Febrero, 33",
+    "formatted_address": "Av. Veintiocho de Febrero, 33, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a61c80db8735e332e671fc",
+  "uid": "3000205 V5 VEINTIOCHO DE FEBRERO 25 SMB",
+  "device": "55faf2fb2dea63ea7967c0fb",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39898512208658",
+    "longitude": "-5.964967391401615",
+    "address": "Av. Veintiocho de Febrero, 25",
+    "formatted_address": "Av. Veintiocho de Febrero, 25, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a74028db8735e332e67206",
+  "uid": "3000216 V5 ESPERANZA DE LA TRINIDAD 10ACC SMB",
+  "device": "560506ec73a0307905ea2bdc",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3950831",
+    "longitude": "-5.9755068",
+    "address": "Calle Esperanza de la Trinidad, 10, 41008 Sevilla",
+    "formatted_address": "",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a9dfb2289a8c97539b8ae5",
+  "uid": "3000277 V5 KANSAS CITY ESQUINA CALLE CEFIRO NCCL",
+  "device": "55ffea9d73a0307905e943fd",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3890754",
+    "longitude": "-5.9739798",
+    "address": "Av de Kansas City & Calle Céfiro, 41018 Sevilla",
+    "formatted_address": "",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56bc6c9fbade3f6d0ab04b9b",
+  "uid": "3000338 V5 SAN JUAN BOSCO STA JUSTA NCCL",
+  "device": "560178bf73a0307905e96dec",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39328572395829",
+    "longitude": "-5.97587355896917",
+    "address": "Calle Urquiza, 9",
+    "formatted_address": "Calle Urquiza, 9, 41003 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88892289a8c97539b88c9",
+  "uid": "3000233 V5 ARROYO 97 NCCL",
+  "device": "56121ad773a0307905ea5979",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39768293003504",
+    "longitude": "-5.9761241042297115",
+    "address": "Calle Niña, 10",
+    "formatted_address": "Calle Niña, 10, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88892289a8c97539b88ca",
+  "uid": "3000234 V5 ARROYO 80 NCCL",
+  "device": "56050d9c73a0307905ea2c9d",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.398299939771704",
+    "longitude": "-5.974290133135241",
+    "address": "Calle Arroyo, 80",
+    "formatted_address": "Calle Arroyo, 80, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88892289a8c97539b88cb",
+  "uid": "3000235 V5 ARROYO 109 NCCL",
+  "device": "560bd6bf73a0307905ea4b05",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39806856952833",
+    "longitude": "-5.975040448796108",
+    "address": "Calle Niña, 34",
+    "formatted_address": "Calle Niña, 34, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88df2289a8c97539b88d0",
+  "uid": "3000254 V5 FRANCISCO DE ARIÑO 10 NCCL",
+  "device": "55fae2802dea63ea7967c009",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39891298367285",
+    "longitude": "-5.976901456066912",
+    "address": "Ctra. de Carmona, 15",
+    "formatted_address": "Ctra. de Carmona, 15, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a88df2289a8c97539b88d1",
+  "uid": "3000253 V5 FRANCISCO DE ARIÑO 3 NCCL",
+  "device": "5603ae0273a0307905ea13c7",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.39932113934606",
+    "longitude": "-5.977033911361673",
+    "address": "Ctra. de Carmona, 21",
+    "formatted_address": "Ctra. de Carmona, 21, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56a9dfb2289a8c97539b8af0",
+  "uid": "3000321 V5 RAFAEL LAFFÓN FRENTE Nº7 NCCL",
+  "device": "560532f573a0307905ea31e8",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.3998458",
+    "longitude": "-5.9731494",
+    "address": "Calle Rafael Laffon, 8, 41008 Sevilla",
+    "formatted_address": "",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56b38043bade3f6d0ab0499f",
+  "uid": "3000352 V5 THARSIS 1ACC ESQ VICENTE ALANÍS NCCL",
+  "device": "5605071773a0307905ea2be8",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.398657366027436",
+    "longitude": "-5.973399619851648",
+    "address": "Calle Aorno",
+    "formatted_address": "Calle Aorno, 41008 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}, {
+  "_id": "56af4b8fd45f82ee1885f9ee",
+  "uid": "3000140 V6 ELISA RUIZ ROMERO FRENTE A JUAN ESPANTALEON SMB",
+  "device": "560271ce73a0307905e9e5a2",
+  "residue_type": "vidrio",
+  "download_type": "Lateral",
+  "container_type": "Superficie",
+  "location": {
+    "latitude": "37.401950012945534",
+    "longitude": "-5.9572386238037325",
+    "address": "Calle Antoñita Colomé, 819",
+    "formatted_address": "Calle Antoñita Colomé, 819, 41007 Sevilla, Sevilla, España",
+    "municipality": "Sevilla"
+  }
+}]
